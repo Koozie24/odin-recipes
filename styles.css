@@ -31,8 +31,8 @@ fieldset, legend{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
 }
-body{
-    background-image:url()
+body {
+    background-image:url(file:///home/jake/Downloads/pexels-guillaume-meurice-1591447.jpg)
 }
 .parent .child, .parent{
     Font-style: italic;
