@@ -12,7 +12,17 @@ h1, h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
 }
+li{
+    border: 2px solid orange;
+    padding: 1em;
+
+}
 ul{
+    width: 1000px;
+    display: flex;
+    border: 2px solid blue;
+    margin: 0 100;
+    padding: 10;
     color: green;
 }
 ol{
@@ -31,9 +41,9 @@ fieldset, legend{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
 }
-body {
+/*body{
     background-image:url(file:///home/jake/Downloads/pexels-guillaume-meurice-1591447.jpg)
-}
+}*/
 .parent .child, .parent{
     Font-style: italic;
 }
